@@ -1,0 +1,59 @@
+{
+  "subscriptions": [
+    {
+      "id": "mvg4lx",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "938208144180535320"
+    },
+    {
+      "id": "lpt5mv",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "933120907973644389"
+    },
+    {
+      "id": "l9mbg",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=88&size_id[]=208&catalog[]=79&price_to=50.0&currency=EUR&search_id=4521544851&order=newest_first",
+      "channelID": "939658308296536188"
+    },
+    {
+      "id": "scqlc",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=362&size_id[]=208&catalog[]=267&price_from=1.0&price_to=60.0&currency=EUR&search_id=3465541007&order=newest_first",
+      "channelID": "939658308296536188"
+    },
+    {
+      "id": "wa4jwq",
+      "url": "https://www.vinted.be/vetements?search_text=&size_id[]=208&size_id[]=785&time=1644105667",
+      "channelID": "939658308296536188"
+    },
+    {
+      "id": "vtbu6b",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=88&size_id[]=208&catalog[]=79&price_to=50.0&currency=EUR&search_id=4521544851&order=newest_first",
+      "channelID": "939672507735244871"
+    },
+    {
+      "id": "k0clg",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=362&size_id[]=208&catalog[]=267&price_from=1.0&price_to=60.0&currency=EUR&search_id=3465541007&order=newest_first",
+      "channelID": "939672507735244871"
+    },
+    {
+      "id": "8w9j8g",
+      "url": "https://www.vinted.be/vetements?search_text=t&brand_id[]=362&size_id[]=208&catalog[]=267&price_from=1.0&price_to=60.0&currency=EUR&search_id=4529095533&order=newest_first",
+      "channelID": "939658308296536188"
+    },
+    {
+      "id": "iq5c3o",
+      "url": "https://www.vinted.be/vetements?search_text=&brand_id[]=362&size_id[]=208&catalog[]=267&price_from=1.0&price_to=60.0&currency=EUR&search_id=3465541007&order=newest_first",
+      "channelID": "939672507735244871"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1644106529000,
+  "last_item_ts_lpt5mv": 1644106529000,
+  "last_item_ts_l9mbg": 1644111253000,
+  "last_item_ts_scqlc": 1644091083000,
+  "last_item_ts_wa4jwq": 1644105629000,
+  "last_item_ts_vtbu6b": 1644111253000,
+  "last_item_ts_k0clg": 1644091083000,
+  "is_first_sync": false,
+  "last_item_ts_8w9j8g": 1643960536000,
+  "last_item_ts_iq5c3o": 1644091083000
+}
